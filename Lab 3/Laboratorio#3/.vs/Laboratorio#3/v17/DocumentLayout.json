@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\Laboratorio 3\\Laboratorio#3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481938D6-9BF3-4C7E-98A5-48BA2D6598B4}|Laboratorio#3\\Laboratorio#3.csproj|c:\\users\\estudiante\\desktop\\laboratorio 3\\laboratorio#3\\laboratorio#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481938D6-9BF3-4C7E-98A5-48BA2D6598B4}|Laboratorio#3\\Laboratorio#3.csproj|solutionrelative:laboratorio#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Laboratorio 3\\Laboratorio#3\\Laboratorio#3\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio#3\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Laboratorio 3\\Laboratorio#3\\Laboratorio#3\\Program.cs",
+              "RelativeToolTip": "Laboratorio#3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:35:19.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

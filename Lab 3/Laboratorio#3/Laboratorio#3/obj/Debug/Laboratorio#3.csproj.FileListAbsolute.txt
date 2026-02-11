@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio#3\Laboratorio#3\bin\Debug\Laboratorio#3.exe.config
+C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio#3\Laboratorio#3\bin\Debug\Laboratorio#3.exe
+C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio#3\Laboratorio#3\bin\Debug\Laboratorio#3.pdb
+C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio#3\Laboratorio#3\obj\Debug\Laboratorio#3.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio#3\Laboratorio#3\obj\Debug\Laboratorio#3.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio#3\Laboratorio#3\obj\Debug\Laboratorio#3.exe
+C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio#3\Laboratorio#3\obj\Debug\Laboratorio#3.pdb
