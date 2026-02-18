@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\Laboratorio 3\\Laboratorio #4\\",
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\GitHub\\Laboratorios\\Lab 4\\Laboratorio #4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A77682E-F89D-4A42-A760-203A0BADD180}|Laboratorio #4\\Laboratorio #4.csproj|c:\\users\\estudiante\\desktop\\laboratorio 3\\laboratorio #4\\laboratorio #4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A77682E-F89D-4A42-A760-203A0BADD180}|Laboratorio #4\\Laboratorio #4.csproj|c:\\users\\estudiante\\documents\\github\\laboratorios\\lab 4\\laboratorio #4\\laboratorio #4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A77682E-F89D-4A42-A760-203A0BADD180}|Laboratorio #4\\Laboratorio #4.csproj|solutionrelative:laboratorio #4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Laboratorio 3\\Laboratorio #4\\Laboratorio #4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\Laboratorios\\Lab 4\\Laboratorio #4\\Laboratorio #4\\Program.cs",
               "RelativeDocumentMoniker": "Laboratorio #4\\Program.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Laboratorio 3\\Laboratorio #4\\Laboratorio #4\\Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\Laboratorios\\Lab 4\\Laboratorio #4\\Laboratorio #4\\Program.cs",
               "RelativeToolTip": "Laboratorio #4\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T14:50:56.425Z",
               "EditorCaption": ""
