@@ -10,6 +10,16 @@ namespace Lab_6_AC_1195025
     {
         static void Main(string[] args)
         {
+
+
+
+            // Entrada de usuario
+            Console.Write("¿Cómo te llamas? ");
+            string nombre = Console.ReadLine();
+            // Salida de datos
+            Console.WriteLine("Hola, " + nombre + " ¡Bienvenido a C#!");
+
+
             // Ejercicio #1
 
             Console.WriteLine("Ejercicio #1");
