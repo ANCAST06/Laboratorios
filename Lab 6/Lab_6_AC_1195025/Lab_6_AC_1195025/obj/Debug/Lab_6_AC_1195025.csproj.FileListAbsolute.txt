@@ -5,3 +5,11 @@ C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_A
 C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\bin\Debug\Lab_6_AC_1195025.pdb
 C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\obj\Debug\Lab_6_AC_1195025.exe
 C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\obj\Debug\Lab_6_AC_1195025.pdb
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\bin\Debug\Lab_6_AC_1195025.exe.config
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\bin\Debug\Lab_6_AC_1195025.exe
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\bin\Debug\Lab_6_AC_1195025.pdb
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\obj\Debug\Lab_6_AC_1195025.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\obj\Debug\Lab_6_AC_1195025.exe.config
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\obj\Debug\Lab_6_AC_1195025.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\obj\Debug\Lab_6_AC_1195025.exe
+C:\Users\andre\Documents\GitHub\Laboratorios\Lab 6\Lab_6_AC_1195025\Lab_6_AC_1195025\obj\Debug\Lab_6_AC_1195025.pdb
