@@ -150,8 +150,10 @@ namespace Lab_CALA71129526
                     else
                     {
                         // Salida final al acertar 
-                        Console.WriteLine("¡Correcto! El número es {numeroSecreto}.");
-                        Console.WriteLine("Cantidad de intentos : {intentos}");
+                        Console.Write("¡Correcto! El número es :");
+                        Console.WriteLine(numeroSecreto);
+                        Console.Write("Cantidad de intentos :");
+                        Console.WriteLine(intentos);
                     }
                 }
                 else
@@ -180,7 +182,9 @@ namespace Lab_CALA71129526
             do
             {
                 inten++; // Incrementa el contador en cada vuelta 
-                Console.Write("Intento {inten}/3 - Ingrese su PIN: ");
+                Console.Write($"Intento numero :" );
+                Console.WriteLine(inten +"/ 3  Ingrese su PIN:");
+                    
                 pinIngresado = Console.ReadLine();
 
                 if (pinIngresado == PIN_CORRECTO)
