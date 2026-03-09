@@ -6,3 +6,21 @@ C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio #4\Laboratorio #4\obj\Debu
 C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.exe
 C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.pdb
 C:\Users\Estudiante\Desktop\Laboratorio 3\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.exe.config
+<<<<<<< HEAD
+C:\Users\andre_rvgfkyg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\bin\Debug\Laboratorio #4.exe.config
+C:\Users\andre_rvgfkyg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\bin\Debug\Laboratorio #4.exe
+C:\Users\andre_rvgfkyg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\bin\Debug\Laboratorio #4.pdb
+C:\Users\andre_rvgfkyg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.csproj.AssemblyReference.cache
+C:\Users\andre_rvgfkyg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.csproj.CoreCompileInputs.cache
+C:\Users\andre_rvgfkyg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.exe
+C:\Users\andre_rvgfkyg\OneDrive\Documentos\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.pdb
+=======
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.exe.config
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.exe
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\obj\Debug\Laboratorio #4.pdb
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\bin\Debug\Laboratorio #4.exe.config
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\bin\Debug\Laboratorio #4.exe
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 4\Laboratorio #4\Laboratorio #4\bin\Debug\Laboratorio #4.pdb
+>>>>>>> 64bd288edb840d89e466143d529deaba33c25c7d
