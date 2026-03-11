@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 8\Laboratorio 8 AC 1195025\Laboratorio 8 AC 1195025\bin\Debug\Laboratorio 8 AC 1195025.exe.config
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 8\Laboratorio 8 AC 1195025\Laboratorio 8 AC 1195025\bin\Debug\Laboratorio 8 AC 1195025.exe
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 8\Laboratorio 8 AC 1195025\Laboratorio 8 AC 1195025\bin\Debug\Laboratorio 8 AC 1195025.pdb
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 8\Laboratorio 8 AC 1195025\Laboratorio 8 AC 1195025\obj\Debug\Laboratorio 8 AC 1195025.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 8\Laboratorio 8 AC 1195025\Laboratorio 8 AC 1195025\obj\Debug\Laboratorio 8 AC 1195025.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 8\Laboratorio 8 AC 1195025\Laboratorio 8 AC 1195025\obj\Debug\Laboratorio 8 AC 1195025.exe
+C:\Users\Estudiante\Documents\GitHub\Laboratorios\Lab 8\Laboratorio 8 AC 1195025\Laboratorio 8 AC 1195025\obj\Debug\Laboratorio 8 AC 1195025.pdb
