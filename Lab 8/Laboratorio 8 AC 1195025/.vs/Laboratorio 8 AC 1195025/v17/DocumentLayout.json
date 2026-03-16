@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\GitHub\\Laboratorios\\Lab 8\\Laboratorio 8 AC 1195025\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\Laboratorios\\Lab 8\\Laboratorio 8 AC 1195025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AC518F2-3788-4CBA-9F6C-C0054BB6199A}|Laboratorio 8 AC 1195025\\Laboratorio 8 AC 1195025.csproj|c:\\users\\estudiante\\documents\\github\\laboratorios\\lab 8\\laboratorio 8 ac 1195025\\laboratorio 8 ac 1195025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AC518F2-3788-4CBA-9F6C-C0054BB6199A}|Laboratorio 8 AC 1195025\\Laboratorio 8 AC 1195025.csproj|c:\\users\\andre\\documents\\github\\laboratorios\\lab 8\\laboratorio 8 ac 1195025\\laboratorio 8 ac 1195025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AC518F2-3788-4CBA-9F6C-C0054BB6199A}|Laboratorio 8 AC 1195025\\Laboratorio 8 AC 1195025.csproj|solutionrelative:laboratorio 8 ac 1195025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\GitHub\\Laboratorios\\Lab 8\\Laboratorio 8 AC 1195025\\Laboratorio 8 AC 1195025\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Laboratorios\\Lab 8\\Laboratorio 8 AC 1195025\\Laboratorio 8 AC 1195025\\Program.cs",
               "RelativeDocumentMoniker": "Laboratorio 8 AC 1195025\\Program.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\GitHub\\Laboratorios\\Lab 8\\Laboratorio 8 AC 1195025\\Laboratorio 8 AC 1195025\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Laboratorios\\Lab 8\\Laboratorio 8 AC 1195025\\Laboratorio 8 AC 1195025\\Program.cs",
               "RelativeToolTip": "Laboratorio 8 AC 1195025\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwNIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T14:43:38.247Z",
               "EditorCaption": ""
