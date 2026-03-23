@@ -19,7 +19,7 @@ class Program
   
     static void Ejercicio1()
     {
-        Console.WriteLine("--- Ejercicio 1 ---");
+        Console.WriteLine("Ejercicio 1");
 
         Console.Write("Ingrese su nombre: ");
         string nombre = Console.ReadLine();
@@ -30,12 +30,13 @@ class Program
 
     static void Saludo(string nombre)
     {
-        Console.WriteLine("Hola {nombre}, bienvenido!");
+        Console.WriteLine("Hola, " + nombre + " ¡Bienvenido a C#!");
     }
 
     static void MostrarCurso()
     {
         Console.WriteLine("Curso: Programación - Laboratorio 9");
+        Console.WriteLine();
     }
 
     // EJERCICIO 2
@@ -84,7 +85,7 @@ class Program
    
     static void Ejercicio3()
     {
-        Console.WriteLine("\n--- Ejercicio 3 ---");
+        Console.WriteLine("Ejercicio 3");
 
         int opcion;
         do
@@ -190,7 +191,7 @@ class Program
   
     static void Ejercicio5()
     {
-        Console.WriteLine("--- Ejercicio 5 ---");
+        Console.WriteLine("Ejercicio 5");
 
         Console.Write("Ingrese número 1: ");
         int a = int.Parse(Console.ReadLine());
