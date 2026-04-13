@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.sourcelink.json
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\bin\Debug\net10.0\Laboratorio 10 AC.exe
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\bin\Debug\net10.0\Laboratorio 10 AC.deps.json
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\bin\Debug\net10.0\Laboratorio 10 AC.runtimeconfig.json
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\bin\Debug\net10.0\Laboratorio 10 AC.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\bin\Debug\net10.0\Laboratorio 10 AC.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\refint\Laboratorio 10 AC.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\Laboratorio 10 AC.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 10\Laboratorio 10 AC\Laboratorio 10 AC\obj\Debug\net10.0\ref\Laboratorio 10 AC.dll
