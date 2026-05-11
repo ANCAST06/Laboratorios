@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.sourcelink.json
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\bin\Debug\net10.0\L14_ AC1195025.exe
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\bin\Debug\net10.0\L14_ AC1195025.deps.json
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\bin\Debug\net10.0\L14_ AC1195025.runtimeconfig.json
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\bin\Debug\net10.0\L14_ AC1195025.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\bin\Debug\net10.0\L14_ AC1195025.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\refint\L14_ AC1195025.dll
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.pdb
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\L14_ AC1195025.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documentos\GitHub\Laboratorios\Lab 14\L14_ AC1195025\L14_ AC1195025\obj\Debug\net10.0\ref\L14_ AC1195025.dll
